@@ -1,0 +1,13 @@
+{
+  "name": "jaeger-tracing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Higor Diego <higordiegoti@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "express": "^4.17.1",
+    "jaeger-client": "^3.18.1",
+    "opentracing": "^0.14.5"
+  }
+}
